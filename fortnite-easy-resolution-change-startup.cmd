@@ -7,5 +7,5 @@
 @REM 3/ Copy this file to the Startup folder.
 
 
-@REM This is the main part of the script. It will run the PowerShell script with the argument.
-powershell "C:\path\to\powershell\fortnite-easy-resolution-change.ps1" -Argument "2560x1080"
+@REM This is the main part of the script. It will run the PowerShell script with the argument. Just change end to your desired resolution.
+powershell "C:\path\to\powershell\fortnite-easy-resolution-change.ps1 2560x1080"

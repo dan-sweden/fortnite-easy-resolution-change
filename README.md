@@ -30,7 +30,7 @@ Using the Startup Folder:
 
 2/ Open the Startup folder: Type shell:startup and press Enter.
 
-3/ Create a new text file: Right-click in the folder, select New, then Text Document.
+3/ Copy and edit fortnite-easy-resolution-change-startup.cmd or create a new text file: Right-click in the folder, select New, then Text Document.
 
 4/ Edit the text file: Open the text file in Notepad and paste the following command, replacing the path with your script's path and adding your argument:
 
