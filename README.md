@@ -34,7 +34,7 @@ Using the Startup Folder:
 
 4/ Edit the text file: Open the text file in Notepad and paste the following command, replacing the path with your script's path and adding your argument:
 
-powershell "C:\path\to\powershell\script.ps1" -Argument "YourArgument"
+powershell "C:\path\to\powershell\script.ps1 WidthxHeight"
 
 5/ Save and rename the file: Save the file, close Notepad, and rename the file to fortnite-easy-resolution-change-startup.cmd
 
